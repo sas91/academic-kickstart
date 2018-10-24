@@ -43,7 +43,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "pdf/st-learning-is18.pdf"
+url_poster = "pdf/st-learning-is18_poster.pdf"
 url_source = ""
 
 # Custom links (optional).
