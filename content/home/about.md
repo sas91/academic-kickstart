@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Electrical & Computer Engineering"
   institution = "Johns Hopkins University"
-  year = 2024
+  year = 2021
 
 [[education.courses]]
   course = "MS in Electrical & Computer Engineering"
