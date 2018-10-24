@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-10-24T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Speech Recognition",
+    "Speech Signal Processing",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Electrical & Computer Engineering"
+  institution = "Johns Hopkins University"
+  year = 2024
+
+[[education.courses]]
+  course = "MS in Electrical & Computer Engineering"
+  institution = "Johns Hopkins University"
+  year = 2017
+
+[[education.courses]]
+  course = "MS in Computer Science"
+  institution = "IIT Madras"
+  year = 2015
+
+[[education.courses]]
+  course = "B.Tech. in Information Technology"
+  institution = "SSN College of Engineering, Anna University"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
+I am a graduate student at [Johns Hopkins University](https://www.ece.jhu.edu/), working in the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), advised by [Prof. Shinji Watanabe](https://www.clsp.jhu.edu/faculty/shinji-watanabe/). My research interests are in speech denoising, speech dereverberation, robust speech recognition and end-to-end speech recognition.
 
-# Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+**{{% staticref "files/cv.pdf" %}}Link to Resume{{% /staticref %}}**
