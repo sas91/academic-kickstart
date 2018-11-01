@@ -16,7 +16,7 @@ authors = ["Aswin Shanmugam S"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "MS thesis, *Indian Institute of Technology Madras*"

@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = "pdf/st-learning-is18_poster.pdf"
-url_source = ""
+url_source = "https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2440.html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
