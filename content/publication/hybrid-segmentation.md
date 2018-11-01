@@ -36,7 +36,7 @@ selected = true
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 
 # Links (optional).
-url_pdf = "pdf/IS140719.pdf"
+url_pdf = "https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_1648.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
