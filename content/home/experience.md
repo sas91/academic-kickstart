@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Experience"
 subtitle = ""
@@ -19,27 +19,39 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Center for Language & Speech Processing, Johns Hopkins University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Baltimore, USA"
+  date_start = "2017-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Working with Dr. Shinji Watanabe on noise robust speech recognition, end-to-end speech recognition, speech enhancement, beamforming and dereverberation."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "Media Information Laboratory, NTT Communication Sciences Lab"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Kyoto, Japan"
+  date_start = "2018-05-21"
+  date_end = "2018-08-17"
+  description = """Worked with Dr. Marc Delcroix on speaker and environment adaptation for end-to-end noise robust speech recognition."""
+
+[[experience]]
+  title = "Network Software Engineer"
+  company = "Intel"
+  company_url = ""
+  location = "Bangalore, India"
+  date_start = "2015-07-20"
+  date_end = "2016-08-12"
+  description = """Worked in the Axxia network accelerator team in the Data Center Group. Contributed to IPv6 module and automation of performance benchmarks."""
+
+[[experience]]
+  title = "Project Associate"
+  company = "IIT Madras"
+  company_url = ""
+  location = "Chennai, India"
+  date_start = "2012-07-01"
+  date_end = "2015-07-13"
+  description = """Worked in a consortium project sponsored by DeitY, Govt. of India. I was involved in development of a common framework for HMM based speech synthesis systems of 13 Indian languages. I developed an automatic segmentation tool and also worked on using syllable as the fundamental unit of synthesis"""
 
 +++
