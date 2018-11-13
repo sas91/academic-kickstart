@@ -52,6 +52,6 @@ date_format = "January 2006"
   location = "Chennai, India"
   date_start = "2012-07-01"
   date_end = "2015-07-13"
-  description = """Worked in a consortium project sponsored by DeitY, Govt. of India. I was involved in development of a common framework for HMM based speech synthesis of 13 Indian languages. I developed an automatic segmentation tool and also worked on using syllable as the fundamental unit of synthesis"""
+  description = """Worked in a consortium project sponsored by DeitY, Govt. of India under the supervision of Prof. Hema Murthy. I was involved in the development of a common framework for HMM based speech synthesis of 13 Indian languages. I developed an automatic segmentation tool and also worked on using syllable as the fundamental unit of synthesis"""
 
 +++
