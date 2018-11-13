@@ -29,7 +29,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Media Information Laboratory, NTT Communication Sciences Lab"
+  company = "NTT Communication Sciences Lab"
   company_url = ""
   location = "Kyoto, Japan"
   date_start = "2018-05-21"
@@ -43,7 +43,7 @@ date_format = "January 2006"
   location = "Bangalore, India"
   date_start = "2015-07-20"
   date_end = "2016-08-12"
-  description = """Worked in the Axxia network accelerator team in the Data Center Group. Contributed to IPv6 module and automation of performance benchmarks."""
+  description = """Worked in the Axxia network accelerator team, Data Center Group. Contributed to IPv6 module and automation of performance benchmarks."""
 
 [[experience]]
   title = "Project Associate"
@@ -52,6 +52,6 @@ date_format = "January 2006"
   location = "Chennai, India"
   date_start = "2012-07-01"
   date_end = "2015-07-13"
-  description = """Worked in a consortium project sponsored by DeitY, Govt. of India. I was involved in development of a common framework for HMM based speech synthesis systems of 13 Indian languages. I developed an automatic segmentation tool and also worked on using syllable as the fundamental unit of synthesis"""
+  description = """Worked in a consortium project sponsored by DeitY, Govt. of India. I was involved in development of a common framework for HMM based speech synthesis of 13 Indian languages. I developed an automatic segmentation tool and also worked on using syllable as the fundamental unit of synthesis"""
 
 +++
