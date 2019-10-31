@@ -28,6 +28,15 @@ date_format = "January 2006"
   description = """Working with Dr. Shinji Watanabe on noise robust speech recognition, end-to-end speech recognition, speech enhancement, beamforming and dereverberation."""
 
 [[experience]]
+  title = "NLP Research Intern"
+  company = "Tencent AI Lab"
+  company_url = ""
+  location = "Bellevue, USA"
+  date_start = "2019-05-20"
+  date_end = "2019-08-23"
+  description = """Worked with Dr. Chao Weng and Dr. Dong Yu on target speech extraction with end-to-end speech recognition objectives."""
+
+[[experience]]
   title = "Research Intern"
   company = "NTT Communication Sciences Lab"
   company_url = ""
