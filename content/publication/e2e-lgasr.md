@@ -2,7 +2,7 @@
 title = "Far-Field Location Guided Target Speech Extraction using End-to-End Speech Recognition Objectives (submitted to ICASSP 2020)"
 
 # Date first published.
-date = "2020-01-24"
+date = "2019-11-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Aswin Shanmugam Subramanian", "Chao Weng", "Meng Yu", "Shi-Xiong Zhang", "Yong Xu", "Shinji Watanabe", "Dong Yu"]
