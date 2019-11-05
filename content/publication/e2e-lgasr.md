@@ -2,7 +2,7 @@
 title = "Far-Field Location Guided Target Speech Extraction using End-to-End Speech Recognition Objectives (submitted to ICASSP 2020)"
 
 # Date first published.
-date = ""
+date = "2020-01-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Aswin Shanmugam Subramanian", "Chao Weng", "Meng Yu", "Shi-Xiong Zhang", "Yong Xu", "Shinji Watanabe", "Dong Yu"]
@@ -45,7 +45,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_audio_demo = "https://sas91.github.io/E2E-LGASR.html"
+url_custom = [{name = "Audio Demo", url = "https://sas91.github.io/E2E-LGASR.html"}]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
