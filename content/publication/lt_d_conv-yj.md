@@ -1,11 +1,11 @@
 +++
-title = "Far-Field Location Guided Target Speech Extraction using End-to-End Speech Recognition Objectives"
+title = "Attention-based ASR with Lightweight and Dynamic Convolutions"
 
 # Date first published.
-date = "2020-01-24"
+date = "2019-12-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aswin Shanmugam Subramanian", "Chao Weng", "Meng Yu", "Shi-Xiong Zhang", "Yong Xu", "Shinji Watanabe", "Dong Yu"]
+authors = ["Yuya Fujita", "Aswin Shanmugam Subramanian", "Motoi Omachi", "Shinji Watanabe"]
 
 # Publication type.
 # Legend:
@@ -37,7 +37,7 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://arxiv.org/pdf/1912.11793.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -45,7 +45,6 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Audio Demo", url = "https://sas91.github.io/E2E-LGASR.html"}]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
