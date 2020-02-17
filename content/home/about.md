@@ -37,6 +37,3 @@ weight = 5
  
 +++
 I am a graduate student at [Johns Hopkins University](https://www.ece.jhu.edu/), working in the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), advised by [Prof. Shinji Watanabe](https://www.clsp.jhu.edu/faculty/shinji-watanabe/). My research interests are in speech denoising, speech dereverberation, source separation, robust speech recognition and end-to-end speech recognition.
-
-
-**{{% staticref "files/cv.pdf" %}}Link to Resume{{% /staticref %}}**
