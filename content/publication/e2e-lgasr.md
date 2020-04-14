@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053692"
 url_custom = [{name = "Audio Demo", url = "https://sas91.github.io/E2E-LGASR.html"}]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
