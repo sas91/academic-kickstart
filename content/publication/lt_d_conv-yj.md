@@ -2,7 +2,7 @@
 title = "Attention-based ASR with Lightweight and Dynamic Convolutions"
 
 # Date first published.
-date = "2019-12-26"
+date = "2020-01-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yuya Fujita", "Aswin Shanmugam Subramanian", "Motoi Omachi", "Shinji Watanabe"]
@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "accepted for publication in *IEEE International Conference on Acoustics, Speech, and Signal Processing.* (accepted in IEEE ICASSP 2020)"
-publication_short = "accepted in *ICASSP 2020*"
+publication_short = "*ICASSP*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -30,7 +30,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

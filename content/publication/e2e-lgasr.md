@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "accepted for publication in *IEEE International Conference on Acoustics, Speech, and Signal Processing.* (accepted in IEEE ICASSP 2020)"
-publication_short = "accepted in *ICASSP 2020*"
+publication_short = "*ICASSP*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -36,13 +36,13 @@ selected = true
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/4100-ICASSP2020.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/dfOL_jazgOU"
 url_poster = ""
 url_source = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053692"
 url_custom = [{name = "Audio Demo", url = "https://sas91.github.io/E2E-LGASR.html"}]

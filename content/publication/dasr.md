@@ -2,7 +2,7 @@
 title = "Directional ASR: A New Paradigm for E2E Multi-Speaker Speech Recognition with Source Localization"
 
 # Date first published.
-date = "2020-10-22"
+date = "2020-10-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Aswin Shanmugam Subramanian", "Chao Weng", "Shinji Watanabe", "Meng Yu", "Shi-Xiong Zhang", "Yong Xu", "Dong Yu"]
@@ -37,7 +37,7 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://arxiv.org/pdf/2011.00091.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

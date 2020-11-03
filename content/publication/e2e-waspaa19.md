@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In the *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics.* (IEEE WASPAA 2019)"
-publication_short = "In Proc. *WASPAA 2019*"
+publication_short = "*WASPAA*"
 
 # Abstract and optional shortened version.
 abstract = ""
