@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In the *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics.* (IEEE WASPAA 2019)"
-publication_short = "In Proc. *WASPAA 2019*"
+publication_short = "*IEEE WASPAA*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -30,7 +30,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected =  false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

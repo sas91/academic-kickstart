@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "accepted for publication in *IEEE International Conference on Acoustics, Speech, and Signal Processing.* (accepted in IEEE ICASSP 2020)"
-publication_short = "*ICASSP*"
+publication_short = "*IEEE ICASSP*"
 
 # Abstract and optional shortened version.
 abstract = ""

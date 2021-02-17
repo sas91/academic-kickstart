@@ -20,17 +20,17 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In the *21st European Signal Processing Conference* (EUSIPCO 2013)"
-publication_short = "In Proc. *EUSIPCO 2013*"
+publication_short = "*EUSIPCO*"
 
 # Abstract and optional shortened version.
-abstract = "A statistical parametric speech synthesis system uses triphones, phones or full context phones to address the problem of co-articulation. In this paper, syllables are used as the basic units in the parametric synthesiser. Conventionally full context phones in a Hidden Markov Model (HMM) based speech synthesis framework are modeled with a fixed number of states. This is because each phoneme corresponds to a single indivisible sound. On the other hand a syllable is made up of a sequence of one or more sounds. To accommodate this variation, a variable number of states are used to model a syllable. Although a variable number of states are required to model syllables, a syllable captures co-articulation well since it is the smallest production unit. A syllable based speech synthesis system therefore does not require a well designed question set. The total number of syllables in a language is quite high and all of them cannot be modeled. To address this issue, a fallback unit is modeled instead. The quality of the proposed system is comparable to that of the phoneme based system in terms of DMOS and WER."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false 
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

@@ -1,11 +1,11 @@
 +++
-title = "Student-Teacher Learning for BLSTM Mask-based Speech Enhancement"
+title = "End-to-End Far-Field Speech Recognition with Unified Dereverberation and Beamforming"
 
 # Date first published.
-date = "2018-09-02"
+date = "2020-10-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aswin Shanmugam Subramanian", "Szu-Jui Chen", "Shinji Watanabe"]
+authors = ["Wangyou Zhang", "Aswin Shanmugam Subramanian", "Xuankai Chang", "Shinji Watanabe", "Yanmin Qian"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["Aswin Shanmugam Subramanian", "Szu-Jui Chen", "Shinji Watanabe"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In the *19th Annual Conference of the International Speech Communication Association.* (ISCA Interspeech 2018)"
+publication = "In the *21st Annual Conference of the International Speech Communication Association.* (ISCA Interspeech 2020)"
 publication_short = "*ISCA Interspeech*"
 
 # Abstract and optional shortened version.
@@ -30,21 +30,21 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 
 # Links (optional).
-url_pdf = "pdf/st-learning-is18_2440.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://arxiv.org/pdf/2005.10479.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "pdf/st-learning-is18_poster.pdf"
-url_source = "https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2440.html"
+url_poster = ""
+url_source = "https://isca-speech.org/archive/Interspeech_2020/abstracts/2432.html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

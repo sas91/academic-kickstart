@@ -1,11 +1,11 @@
 +++
-title = "Student-Teacher Learning for BLSTM Mask-based Speech Enhancement"
+title = "IIT Madras's Submission to the Blizzard Challenge 2014"
 
 # Date first published.
-date = "2018-09-02"
+date = "2014-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aswin Shanmugam Subramanian", "Szu-Jui Chen", "Shinji Watanabe"]
+authors = ["Raghava Krishnan K", "S Aswin Shanmugam", "Anusha Prakash", "Kasthuri G R", "Hema A Murthy"]
 
 # Publication type.
 # Legend:
@@ -16,11 +16,11 @@ authors = ["Aswin Shanmugam Subramanian", "Szu-Jui Chen", "Shinji Watanabe"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "In the *19th Annual Conference of the International Speech Communication Association.* (ISCA Interspeech 2018)"
-publication_short = "*ISCA Interspeech*"
+publication = "In *Blizzard Challenge*"
+publication_short = "*Blizzard Challenge*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -30,21 +30,21 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 
 # Links (optional).
-url_pdf = "pdf/st-learning-is18_2440.pdf"
+url_pdf = "http://www.festvox.org/blizzard/bc2014/IIT_Madras_Blizzard.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "pdf/st-learning-is18_poster.pdf"
-url_source = "https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2440.html"
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

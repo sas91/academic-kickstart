@@ -1,11 +1,11 @@
 +++
-title = "Student-Teacher Learning for BLSTM Mask-based Speech Enhancement"
+title = "Exploration of Vowel Onset and Offset Points for Hybrid Speech Segmentation"
 
 # Date first published.
-date = "2018-09-02"
+date = "2015-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aswin Shanmugam Subramanian", "Szu-Jui Chen", "Shinji Watanabe"]
+authors = ["Biswajit Dev Sarma", "Bidisha Sharma", "S Aswin Shanmugam", "SR Mahadeva Prasanna", "Hema A Murthy"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Aswin Shanmugam Subramanian", "Szu-Jui Chen", "Shinji Watanabe"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In the *19th Annual Conference of the International Speech Communication Association.* (ISCA Interspeech 2018)"
-publication_short = "*ISCA Interspeech*"
+publication = "In *IEEE TENCON*"
+publication_short = "*IEEE TENCON*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -30,21 +30,21 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 
 # Links (optional).
-url_pdf = "pdf/st-learning-is18_2440.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "pdf/st-learning-is18_poster.pdf"
-url_source = "https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2440.html"
+url_poster = ""
+url_source = "https://ieeexplore.ieee.org/abstract/document/7373137"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

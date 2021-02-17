@@ -1,11 +1,11 @@
 +++
-title = "Student-Teacher Learning for BLSTM Mask-based Speech Enhancement"
+title = "A Common Attribute based Unified HTS framework for Speech Synthesis in Indian Languages"
 
 # Date first published.
-date = "2018-09-02"
+date = "2013-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aswin Shanmugam Subramanian", "Szu-Jui Chen", "Shinji Watanabe"]
+authors = ["B Ramani", "S Lilly Christina", "G Anushiya Rachel", "V Sherlin Solomi", "Mahesh Kumar Nandwana", "Anusha Prakash", "S Aswin Shanmugam", "Raghava Krishnan", "SP Kishore", "K Samudravijaya", "P Vijayalakshmi", "T Nagarajan", "Hema A Murthy"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Aswin Shanmugam Subramanian", "Szu-Jui Chen", "Shinji Watanabe"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In the *19th Annual Conference of the International Speech Communication Association.* (ISCA Interspeech 2018)"
-publication_short = "*ISCA Interspeech*"
+publication = "In the *8th ISCA Workshop on Speech Synthesis.* (ISCA SSW 2013)"
+publication_short = "*ISCA SSW*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -30,21 +30,21 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 
 # Links (optional).
-url_pdf = "pdf/st-learning-is18_2440.pdf"
+url_pdf = "https://www.isca-speech.org/archive/ssw8/papers/ssw8_291.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "pdf/st-learning-is18_poster.pdf"
-url_source = "https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2440.html"
+url_poster = ""
+url_source = "https://www.isca-speech.org/archive/ssw8/ssw8_291.html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

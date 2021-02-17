@@ -9,7 +9,7 @@
 baseurl = "https://sas91.github.io/"
 
 # Title of your site
-title = "Aswin Shanmugam Subramanian"
+title = "Aswin Subramanian"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -110,11 +110,11 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "S_Aswin19"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "logo.jpg"
+  logo = "logo.png"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -216,7 +216,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 1
 
     # Talk list format.
     #   0 = Simple
@@ -247,10 +247,17 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:aswin@jhu.edu"
 
- #[[params.social]]
- #  icon = "twitter"
- #  icon_pack = "fab"
- #  link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+     icon = "twitter"
+     icon_pack = "fab"
+     link = "//twitter.com/S_Aswin19"
+
+   #Link to a PDF of your resume/CV from the About widget.
+   #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/cv.pdf"
 
   [[params.social]]
     icon = "google-scholar"
@@ -261,13 +268,6 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "//github.com/sas91"
-
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -288,9 +288,19 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Selected"
+  url = "#publications_selected"
   weight = 3
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publication/"
+  weight = 4
+
+#[[menu.main]]
+#  name = "Recent Publications"
+#  url = "#publications"
+#  weight = 3
 
 #[[menu.main]]
 #  name = "Posts"
@@ -310,7 +320,7 @@ enableGitInfo = false
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
-    name = "CV"
+    name = "Résumé"
     url = "files/cv.pdf"
     weight = 7
 

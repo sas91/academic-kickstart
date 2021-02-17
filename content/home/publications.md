@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Selected Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "Other Recent"
 
 # Order that this section will appear in.
 weight = 20
@@ -20,7 +20,7 @@ count = 10
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 4
+list_format = 0
 
 # Filter by publication type.
 # -1: Any
@@ -34,6 +34,6 @@ list_format = 4
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+exclude_selected = true
 +++
 

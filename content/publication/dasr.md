@@ -2,7 +2,7 @@
 title = "Directional ASR: A New Paradigm for E2E Multi-Speaker Speech Recognition with Source Localization"
 
 # Date first published.
-date = "2020-10-30"
+date = "2021-01-29"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Aswin Shanmugam Subramanian", "Chao Weng", "Shinji Watanabe", "Meng Yu", "Shi-Xiong Zhang", "Yong Xu", "Dong Yu"]
@@ -19,8 +19,8 @@ authors = ["Aswin Shanmugam Subramanian", "Chao Weng", "Shinji Watanabe", "Meng 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "submitted to *IEEE International Conference on Acoustics, Speech, and Signal Processing.* (submitted to IEEE ICASSP 2021)"
-publication_short = "submitted to *ICASSP 2021*"
+publication = "accepted in *IEEE International Conference on Acoustics, Speech, and Signal Processing.* (accepted in IEEE ICASSP 2021)"
+publication_short = "accepted in *IEEE ICASSP*"
 
 # Abstract and optional shortened version.
 abstract = ""

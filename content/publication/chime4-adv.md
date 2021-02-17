@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In the *19th Annual Conference of the International Speech Communication Association.* (ISCA Interspeech 2018)"
-publication_short = "In Proc. *Interspeech 2018*"
+publication_short = "*ISCA Interspeech*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -30,7 +30,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

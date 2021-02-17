@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In the *15th Annual Conference of the International Speech Communication Association.* (ISCA Interspeech 2014)"
-publication_short = "In Proc. *Interspeech 2014*"
+publication_short = "*ISCA Interspeech*"
 
 # Abstract and optional shortened version.
 abstract = ""

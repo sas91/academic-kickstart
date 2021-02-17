@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In the *CHiME 2018 Workshop on Speech Processing in Everyday Environments.* (CHiME-5 Workshop)"
-publication_short = "In Proc. *CHiME-5 Workshop*"
+publication_short = "*CHiME-5 Workshop*"
 
 # Abstract and optional shortened version.
 abstract = ""
