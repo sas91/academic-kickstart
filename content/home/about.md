@@ -18,7 +18,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Electrical & Computer Engineering"
   institution = "Johns Hopkins University"
-  year = 2021
+  year = "ongoing"
 
 [[education.courses]]
   course = "MS in Electrical & Computer Engineering"
@@ -36,4 +36,4 @@ weight = 5
   year = 2012
  
 +++
-I am a graduate student at [Johns Hopkins University](https://www.ece.jhu.edu/), working in the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), advised by [Prof. Shinji Watanabe](https://www.clsp.jhu.edu/faculty/shinji-watanabe/). My research interests are in speech denoising, speech dereverberation, source separation, multi-source localization, robust speech recognition and end-to-end speech recognition.
+I am a doctoral candidate at [Johns Hopkins University](https://www.ece.jhu.edu/), working in the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), advised by [Prof. Shinji Watanabe](https://www.clsp.jhu.edu/faculty/shinji-watanabe/). I am currently working on robust speech recognition in far-field, multi-talker scenarios. I focus on improving ASR with front-end processing like speech denoising, speech dereverberation, source separation, and multi-source localization. I recently proposed a paradigm called [directional ASR](https://arxiv.org/pdf/2011.00091.pdf).
